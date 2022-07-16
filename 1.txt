@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 This is fix for UI issue
 The new UI released version 1.2
+=======
+This is for first file
+
+changes
+
+>>>>>>> 123923c0103e3c524d3e839b9875097c26d2c46c
+sindhu made changes
